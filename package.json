@@ -1,0 +1,15 @@
+{
+  "name": "@suleymancelikel/perf-analytics-js",
+  "version": "1.2.13",
+  "description": "Simple performance analycs.",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suleymancelikel/perf-analytics"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
